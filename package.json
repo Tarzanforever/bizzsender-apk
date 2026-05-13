@@ -7,6 +7,7 @@
     "build": "eas build --platform android --profile preview --non-interactive"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.4.0",
     "@expo/vector-icons": "^15.0.3",
     "expo": "~54.0.27",
     "expo-blur": "~15.0.8",
